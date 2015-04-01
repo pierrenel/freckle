@@ -1,0 +1,11 @@
+{
+  "name": "Atomic Freckle",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom version of the Textmate Freckle theme",
+  "repository": "https://github.com/pierrenel/freckle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}

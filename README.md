@@ -1,5 +1,5 @@
 # freckle theme
 
-A short description of your theme.
+A dark version of the original [Freckle Textmate theme](https://github.com/filmgirl/TextMate-Themes/blob/master/Freckle.tmTheme), ported to Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](http://drop.pierre.io/atomic_freckle.png)
